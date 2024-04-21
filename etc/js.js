@@ -1,0 +1,1 @@
+let t="",i=0;for(;i<100;i++)t+="好き";console.log(t)

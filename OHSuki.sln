@@ -12,6 +12,16 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ソリューション項目
 		readme.md = readme.md
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "etc", "etc", "{E01809EC-7355-4EB0-9277-3AE266551E10}"
+	ProjectSection(SolutionItems) = preProject
+		etc\bat.bat = etc\bat.bat
+		etc\brainf--k.bf = etc\brainf--k.bf
+		etc\js.js = etc\js.js
+		etc\php.php = etc\php.php
+		etc\py.py = etc\py.py
+		etc\scratch.sb3 = etc\scratch.sb3
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
